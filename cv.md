@@ -1,3 +1,4 @@
+![photo](/images/main-photo.jpg)
 # Sergey Lenivko 
 *********************
 ## Contact
